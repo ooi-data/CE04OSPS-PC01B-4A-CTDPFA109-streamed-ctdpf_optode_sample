@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-PC01B-4A-CTDPFA109-streamed-ctdpf_optode_sample
 data_stream: CE04OSPS-PC01B-4A-CTDPFA109-streamed-ctdpf_optode_sample
-end_date: '2022-01-21T02:33:21.342Z'
-last_updated: '2022-01-21T09:07:10.139560'
+end_date: '2022-01-01T01:45:37.058Z'
+last_updated: '2022-01-21T23:44:19.255271Z'
 start_date: '2014-10-08T19:51:58.991Z'
-status: success
+status: pending
